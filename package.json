@@ -9,10 +9,10 @@
     "format": "prettier --write src/**/*.js",
     "format:lint": "npm run format && npm run lint",
     "clear": "rimraf dist .parcel-cache"
-
   },
   "license": "MIT",
   "dependencies": {
+    "node-sass": "^5.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
