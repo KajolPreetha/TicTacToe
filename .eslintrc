@@ -32,6 +32,12 @@
               ],
               "react/no-array-index-key": [
                      0
+              ],
+              "arrow-body-style": [
+                     0
+              ],
+              "prefer-arrow-callback": [
+                     0
               ]
        }
 }
