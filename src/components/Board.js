@@ -11,6 +11,7 @@ const Board = ({board, handleSquareClick}) => {
                      />
               )
        }
+
        
        return (
               <div className="board">
